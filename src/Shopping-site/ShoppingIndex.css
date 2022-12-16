@@ -1,0 +1,15 @@
+header a{
+    color:white;
+    text-decoration: none;
+}
+header a:hover {
+    color:yellow;
+}
+ul a{
+color: white;
+text-decoration: none;
+}
+ul a:hover{
+    color: white;
+    text-decoration: underline;
+    }

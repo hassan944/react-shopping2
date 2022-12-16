@@ -1,0 +1,7 @@
+.catalog{
+    height: 500px;
+    overflow: auto;
+}
+.card.header{
+    height: 150px;
+}
